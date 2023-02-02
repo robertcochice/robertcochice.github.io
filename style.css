@@ -1,5 +1,14 @@
-body{
-    margin: 0;
-    background: pink;
-    text-align: center;
+body {
+    margin: 4em;
+    font-family: "Oswald", san-serif;
+    background: gray;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+img {
+    width: 800px;
+    max-width: 100%;
 }
