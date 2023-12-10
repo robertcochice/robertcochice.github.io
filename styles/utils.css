@@ -23,9 +23,12 @@
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    /* border: 1px solid red; */
+    padding-left: .5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1rem;
+    padding-top: 0rem;
+   /* border: 1px solid red;*/
+    margin-top: 1em;
     
 }
 
@@ -57,7 +60,7 @@
     max-width:1024px;}
 
     .section{
-        margin-top: 10rem;
+        margin-top: 4.5rem;
     }
 }
 

@@ -32,6 +32,8 @@
   
   .about__ul-container {
     display: flex;
+    /* padding: 10em; */
+    margin: 1em;
   }
   
   .about__ul {
@@ -141,6 +143,7 @@
   .about__list {
     font-size: var(--size-xl);
   }
+
 
   /* .about__img { */
     width: 30.75rem;
